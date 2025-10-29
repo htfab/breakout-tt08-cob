@@ -12528,7 +12528,7 @@
 				)
 			)
 		)
-		(property "Value" "Openframe_QFN_TT06_REV2"
+		(property "Value" "Openframe_COB_TT08"
 			(at 117.856 123.19 90)
 			(effects
 				(font
@@ -12545,7 +12545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://github.com/TinyTapeout/tt-multiplexer/blob/tt06-staging/docs/INFO.md#pinout"
+		(property "Datasheet" "https://github.com/TinyTapeout/tt-multiplexer/blob/tt08-release/docs/INFO.md#pinout"
 			(at 142.24 92.71 0)
 			(effects
 				(font
@@ -12554,7 +12554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Openframe QFN packaging, with TinyTapeout 6+ pin mapping"
+		(property "Description" ""
 			(at 91.44 95.25 0)
 			(effects
 				(font
